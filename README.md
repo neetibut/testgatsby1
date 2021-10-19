@@ -52,3 +52,13 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+Photo by <a href="https://unsplash.com/@marxgall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marek Szturc</a> on <a href="https://unsplash.com/s/photos/calm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@danesduet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Olah</a> on <a href="https://unsplash.com/s/photos/earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@lepikdaniel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Lepik</a> on <a href="https://unsplash.com/s/photos/earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@unseenhistories?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unseen Histories</a> on <a href="https://unsplash.com/s/photos/leaders?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@shelbyirelandphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shelby Ireland</a> on <a href="https://unsplash.com/s/photos/cannabis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
