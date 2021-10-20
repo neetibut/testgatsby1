@@ -1,6 +1,7 @@
 import * as React from 'react'
 import Layout from '../components/layout'
 import { StaticImage } from 'gatsby-plugin-image'
+import Checkout from '../components/checkout'
 
 // https://cdni.iconscout.com/illustration/premium/thumb/creative-team-5-955545.png
 
@@ -15,6 +16,7 @@ const IndexPage = () => {
         <li>project-based development</li>
         <li>incubate a startup idea</li>
       </p>
+      <Checkout />
       <StaticImage
         alt="teamxearth"
         src="../images/Teams.png"
