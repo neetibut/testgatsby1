@@ -5,6 +5,7 @@ import Layout from '../../components/layout'
 const BlogPage = ({ data }) => {
     return(
         <Layout pageTitle="Blog Posts">
+        <Link to="/">Back to Home</Link>
                 {
                     data.allMdx.nodes.map((node) => (
                         <article key={node.id}>

@@ -6,12 +6,11 @@ import { StaticImage } from 'gatsby-plugin-image'
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Homepage">
-      <title>TeamXEarth</title>
-      <h1>Hi, we're teamxearth</h1>
-      <p>We build software MVPs that users love because its good for them and Earth.</p>
-      <h2>An on-demand remote team and teams of team of developers combining the fields of strategy, design and software engineering. We know modern and best in class tools for fast and secure development projects.</h2>
-      <p>We get to work in 3 ways
+    <Layout pageTitle="">
+      <h3>Hi, we are teamxearth 👋 </h3>
+      <h1>We build software MVPs that users love because its good for them and Earth.</h1>
+      <h2>An on-demand remote team and teams of team of developers combining the fields of strategy, design and software engineering. We make sure the best tools and techniques are used to deliver impact and value to users.</h2>
+      <p>We get to work in 3 ways:
         <li>retain a teamxearth team for your monthly development needs</li>
         <li>project-based development</li>
         <li>incubate a startup idea</li>
